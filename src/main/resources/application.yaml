@@ -1,0 +1,11 @@
+http:
+  baseUrl: "https://httpbin.org"
+  connectTimeoutMs: 5000
+  readTimeoutMs: 15000
+  writeTimeoutMs: 15000
+
+graphql:
+  endpoint: "https://countries.trevorblades.com/"
+
+soap:
+  endpoint: "https://www.dataaccess.com/webservicesserver/NumberConversion.wso"
